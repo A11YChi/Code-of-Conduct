@@ -1,6 +1,6 @@
 # Code-of-Conduct
 ## Authors:
-* [Dennis Deacon](https://www.meetup.com/a11ychi/members/5566591/) - Organizer 
+* [Dennis Deacon](https://www.meetup.com/a11ychi/members/5566591/) - Founder
 * [Nick Ng](https://www.meetup.com/a11ychi/members/211117238/) - Co-Organizer
 
 Date: Monday, September 25, 2017
